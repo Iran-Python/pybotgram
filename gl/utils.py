@@ -10,7 +10,6 @@ import inspect
 import requests
 import tempfile
 # from urllib.parse import urlparse
-from progressbar import ProgressBar
 try:
     import tgl
 except Exception as e:
