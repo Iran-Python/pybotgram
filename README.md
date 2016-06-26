@@ -52,7 +52,6 @@ sudo pip3 install virtualenv
 If you want to have all the plugins, you will have to install some more dependencies:
 ```
 sudo apt-get install libtiff4-dev libjpeg8-dev zlib1g-dev libfreetype6-dev liblcms1-dev libwebp-dev
-./launch.sh optdeps
 ```
 
 To install in other OS, see this are the libraries that need extra dependencies:
